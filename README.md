@@ -20,4 +20,5 @@ As a data analyst, I excel in managing and analyzing data. My strength lies in d
 
 📊 GitHub Stats:
 
-[![Kiran’s github stats](https://github-readme-stats.vercel.app/api?username=kirannavale)](https://github.com/kirannavale&theme=dark)
+[![Kiran’s github stats](https://github-readme-stats.vercel.app/api?username=kirannavale&show_icons=true&theme=dark)
+
