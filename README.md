@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kirannavale
-- 👀 I’m interested in ...SQL,Tableau,PowerBI
-- 🌱 I’m currently learning ...
+- 👋 Hi, my name is Kiran
+- 👀 I’m interested in Data Analytics & Business Intelligence
+- 🌱 I’m currently searching opportunity as Data Analyst
 - 📫 How to reach me ...nk619123@gmail.com
 
 <!---
