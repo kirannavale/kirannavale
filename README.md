@@ -7,6 +7,8 @@ As a data analyst, I excel in managing and analyzing data. My strength lies in d
 - 🌱 I’m currently searching opportunity as Data Analyst
 - 📫 How to reach me ...nk619123@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirannavale&label=Profile%20views&color=ce9927&style=flat" alt="kirannavale" /> </p>
+
 💻 Skills:
  
 - Power BI
