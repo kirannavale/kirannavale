@@ -15,9 +15,9 @@ As a data analyst, I excel in managing and analyzing data. My strength lies in d
 - Business analysis
 
 🌐 Socials:
- <a href=”https://www.linkedin.com/in/iamkirannavale/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
 
 
 📊 GitHub Stats:
 
-[![Kiran’s github stats](https://github-readme-stats.vercel.app/api?username=kirannavale)](https://github.com/kirannavale)
+[![Kiran’s github stats](https://github-readme-stats.vercel.app/api?username=kirannavale)](https://github.com/kirannavale&theme=dark)
