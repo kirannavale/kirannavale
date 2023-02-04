@@ -14,7 +14,7 @@
 - Business analysis
 
 🌐 Socials:
-
+https://www.linkedin.com/in/iamkirannavale    https://www.novypro.com/profile_projects/kiran-1
 
 
 📊 GitHub Stats:
