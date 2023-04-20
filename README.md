@@ -12,10 +12,9 @@
  
 - Power BI
 - SQL
-- Tableau
 - Python
 - Data analysis
-- Business analysis
+
 
 🌐 Socials:
 
