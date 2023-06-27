@@ -18,8 +18,7 @@
 
 🌐 Socials:
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamkirannavale)   [<img src='https://sjc6.discourse-cdn.com/standard17/user_avatar/forum.novypro.com/novypro.support.team/240/10_2.png' alt='novyPro' height='40'>](https://www.novypro.com/profile_projects/kiran-1)
-
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamkirannavale)  
 📊 GitHub Stats:
 
 [![Kiran’s github stats](https://github-readme-stats.vercel.app/api?username=kirannavale&show_icons=true&theme=dark)
