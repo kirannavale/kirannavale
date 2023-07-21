@@ -18,8 +18,8 @@
 
 🌐Social/ Personal Portfolio Site :
 
-[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamkirannavale) 
-[<img src='https://github.com/kirannavale/Portfolio-Projects/assets/34519689/3cdf48da-7536-4eab-98f2-4eeed898d609' alt='Portfolio' height='40'>](https://kirannavale.github.io) 
+[<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamkirannavale)
+[<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/34519689/255148413-3cdf48da-7536-4eab-98f2-4eeed898d609.png' alt='Portfolio' height='40'>](https://kirannavale.github.io) 
 
 📊 GitHub Stats:
 
