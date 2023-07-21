@@ -19,7 +19,7 @@
 🌐Social/ Personal Portfolio Site :
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/iamkirannavale) 
-[<img src='https://github.com/kirannavale/Portfolio-Projects/assets/34519689/dea01a9c-1e3e-4d9b-876b-91a3434a3337' alt='Portfolio' height='44'>](https://kirannavale.github.io/) 
+[<img src='http://surl.li/jhndy' alt='Portfolio' height='44'>](https://kirannavale.github.io/) 
 
 📊 GitHub Stats:
 
