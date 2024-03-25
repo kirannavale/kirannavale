@@ -2,7 +2,7 @@
 💫 About Me:
 
 - 👋 Hi, my name is Kiran
-- 👀 I’m interested in Data Analytics & Business Intelligence
+- 👀 I’m interested in Data Analytics & Gen-AI
 - 📫 How to reach me ...kirannavaleyt@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirannavale&label=Profile%20views&color=ce9927&style=flat" alt="kirannavale" /> </p>
